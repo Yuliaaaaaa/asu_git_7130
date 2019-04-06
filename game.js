@@ -940,7 +940,7 @@ Game = {
       }
 
       Game.score = 0;
-      Game.lives = 2;
+      Game.lives = 3;
       Game.totalAsteroids = 2;
       Game.spawnAsteroids();
 
